@@ -2,12 +2,7 @@
 #include <vector>
 #include <cmath>
 #include <string>
-#include <fstream>
-#include <new>
-#include <cstring>
-#include <malloc.h>
 
-using namespace std;
 
 float datax[20];
 float datay[20];
